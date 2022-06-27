@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/avd_anim_photo.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/avd_anim_settings.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/bottom_menu_background.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/dialog_bg.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/ic_add_circle_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/ic_photo_camera_24.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/ic_settings_24.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AndroidStudioProjects/MyTestApp/app/src/main/res/drawable/ic_warning_20.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AppData/Local/Temp/drawable-temp/fake_of_anim_photo1.xml" value="0.1" />
+        <entry key="..\:/Users/gefro/AppData/Local/Temp/drawable-temp/fake_of_anim_photo5.xml" value="0.214" />
+        <entry key="..\:/Users/gefro/AppData/Local/Temp/drawable-temp/fake_of_anim_settings.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
